@@ -1,0 +1,29 @@
+.brand-logo img {
+height: 60px;
+}
+
+body { 
+    background-image: url(https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/pia18853-garcia-1-main.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+
+.dayimage{
+    height: 300px;
+    margin-left: 420px;
+
+}
+
+.card-panel{
+    width: 500px;
+    margin-left: 420px;
+
+}
+
